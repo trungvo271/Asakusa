@@ -1,0 +1,14 @@
+{
+  "name": "firstjs",
+  "version": "1.0.0",
+  "description": "my-first-node-express-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trung.vo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
